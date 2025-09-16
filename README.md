@@ -16,13 +16,21 @@ The goal of this project is to create a production-ready ecommerce application t
 The following features are included in the Ecommerce Store:
 
 1.**Product Catalog**: Browse products with clean UI and category-based organization
+
 2.**Search Functionality**: Real-time search to quickly find products by name
+
 4.**Shopping Cart**: Add, remove, and update product quantities in a responsive cart
+
 5.**Product Details**: View product descriptions, images, and prices
+
 6.**Responsive Design**: Optimized for mobile, tablet, and desktop screens
+
 7.**Navbar with Search**: Dynamic navigation bar with integrated search box
+
 8.**Filter & Sort UI (Planned)**: Easily filter products by category, price, or relevance
+
 9.**Modern UI/UX**: Clean design with hover effects, modals, and smooth transitions
+
 10.**Reusable Components**: Built using modular React components for scalability
 
 🧰 Tech Stack Table
