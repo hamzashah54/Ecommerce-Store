@@ -70,3 +70,4 @@ To run tests, follow these steps:
 👤 Author
 -------
 The Ecommerce Store is developed and maintained by [**Hamza Shah**]
+
