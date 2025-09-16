@@ -12,25 +12,25 @@ The Ecommerce Store features a responsive design, ensuring a seamless user exper
 The goal of this project is to create a production-ready ecommerce application that can be easily extended and customized to meet the needs of various businesses. With its flexible architecture and modular design, the Ecommerce Store is an ideal solution for companies looking to establish a strong online presence.
 
 ✨ Features
+--------
+The following features are included in the Ecommerce Store:
 
-The Ecommerce Store includes the following features:
-1.Product Catalog – Browse products with category-based organization
-2.Search Functionality – Real-time search to quickly find products by name
-3.Shopping Cart – Add, remove, and update product quantities with persistence
-4.Product Details – View detailed product descriptions, prices, and images
-5.Responsive Design – Mobile-friendly layout that adapts to all screen sizes
-6.Navbar with Search – Dynamic navigation bar with integrated search box
-7.Reusable Components – Modular React components for scalability
-8.Filter & Sort (Planned) – Easy filtering and sorting by category, price, or relevance
-9.Modern UI/UX – Smooth transitions, hover effects, and clean layouts
-10.Frontend-Only Implementation – Uses FakeStoreAPI for product data
+1.**Product Catalog**: Browse products with clean UI and category-based organization
+2.**Search Functionality**: Real-time search to quickly find products by name
+4.**Shopping Cart**: Add, remove, and update product quantities in a responsive cart
+5.**Product Details**: View product descriptions, images, and prices
+6.**Responsive Design**: Optimized for mobile, tablet, and desktop screens
+7.**Navbar with Search**: Dynamic navigation bar with integrated search box
+8.**Filter & Sort UI (Planned)**: Easily filter products by category, price, or relevance
+9.**Modern UI/UX**: Clean design with hover effects, modals, and smooth transitions
+10.**Reusable Components**: Built using modular React components for scalability
 
 🧰 Tech Stack Table
 -------------------
 | Category | Technology |
 | --- | --- |
 | Frontend | React, Tailwind CSS, Vite, Context Api, React Router |
-| Tools | ESLint, Prettier |
+| Tools | ESLint, Prettier, |
 
 📁 Project Structure
 -------------------
@@ -61,4 +61,4 @@ To run tests, follow these steps:
 
 👤 Author
 -------
-The Ecommerce Store is developed and maintained by [Hamza Shah].
+The Ecommerce Store is developed and maintained by [**Hamza Shah**]
