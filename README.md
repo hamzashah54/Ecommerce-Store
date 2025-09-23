@@ -1,7 +1,9 @@
 🚀 Ecommerce Store 🛍️
+
 "Revolutionizing online shopping experiences with a seamless and intuitive interface"
 
 📖 Description
+
 The Ecommerce Store is a modern React frontend application built to deliver a smooth and intuitive online shopping experience. It provides customers with a clean interface to browse, search, and manage products with ease.
 
 Designed with a mobile-first approach, the application ensures seamless responsiveness across all devices. The project follows a modular component-based architecture, making it easy to extend, customize, and maintain.
@@ -9,17 +11,27 @@ Designed with a mobile-first approach, the application ensures seamless responsi
 Since this is a frontend-only implementation, the app integrates with a mock API (FakeStoreAPI) to fetch product data. This allows developers to focus on UI/UX without needing a backend setup.
 
 ✨ Features
+
 The Ecommerce Store includes the following features:
 
 1.**Product Catalog** – Browse products with category-based organization
+
 2.**Search Functionality** – Real-time search to quickly find products by name
+
 3.**Shopping Cart** – Add, remove, and update product quantities with persistence
+
 4.**Product Details** – View detailed product descriptions, prices, and images
+
 5.**Responsive Design** – Mobile-friendly layout that adapts to all screen sizes
+
 6.**Navbar with Search** – Dynamic navigation bar with integrated search box
+
 7.**Reusable Components** – Modular React components for scalability
+
 8.**Filter & Sort (Planned)** – Easy filtering and sorting by category, price, or relevance
+
 9.**Modern UI/UX** – Smooth transitions, hover effects, and clean layouts
+
 10.**Frontend-Only** Implementation – Uses FakeStoreAPI for product data
 
 🧰 Tech Stack Table
